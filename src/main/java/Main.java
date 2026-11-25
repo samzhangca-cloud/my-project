@@ -1,6 +1,7 @@
 import zero.ui.Label;
 import zero.App;
 
+
 public class Main extends App {
     @Override public void settings() { padding(20); }
 
